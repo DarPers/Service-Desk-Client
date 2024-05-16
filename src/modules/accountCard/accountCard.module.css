@@ -1,0 +1,14 @@
+.card {
+    display: grid;
+    grid-template-columns: 20% 60%;
+    box-shadow: 0 0.2rem 2rem rgba(0, 0, 0, 0.2);
+    border-radius: 1.5rem;
+    margin: 2% 25% 23%;
+    padding: 3%;
+    color: darkslateblue;
+    background-color: white;
+}
+
+.button {
+    margin-top: 5%;
+}
